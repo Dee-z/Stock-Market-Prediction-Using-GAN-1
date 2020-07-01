@@ -16,7 +16,7 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 # Prediction Model
 ![GAN-FD](https://github.com/ojkk371/Stock-Market-Prediction-Using-GAN/blob/master/fig/GAN-FD-structure.png?raw=true)
 
-# Kiwoom API 로 주식 분봉데이터 
+# Kiwoom API 로 주식 분봉데이터 수집
 1. 키움증권 가입 & 키움증권 Open API 사용허가 & Open API 모듈 설치
 2. Anaconda 32-bit 설치
 ```
