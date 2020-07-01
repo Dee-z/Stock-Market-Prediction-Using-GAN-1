@@ -28,3 +28,15 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 
 # 파이썬 3.5버전을 사용한 이유는 추후에 zipline을 사용하기 위해서입니다.
 ```
+3. 설치한 가상환경의 bit 확인
+```
+# 가상환경 진입
+>conda activate 가상환경이름
+
+# 비트확인
+>python
+>>> import platform
+>>> print(platform.architecture())
+
+결과: ('32bit','WindowsPE') 라고 떠야 잘된것.
+```
