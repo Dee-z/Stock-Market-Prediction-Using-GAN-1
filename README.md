@@ -21,10 +21,10 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 2. Anaconda 32-bit 설치
 ```
 # 아나콘다 32bit로 강제설정
-set CONDA_FORCE_32BIT
+>set CONDA_FORCE_32BIT
 
 # 가상환경 설치
-conda create -n 가상환경이름 python=3.5.6 anaconda
+>conda create -n 가상환경이름 python=3.5.6 anaconda
 
 # 파이썬 3.5버전을 사용한 이유는 추후에 zipline을 사용하기 위해서입니다.
 ```
