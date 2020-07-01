@@ -40,3 +40,17 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 
 결과: ('32bit','WindowsPE') 라고 떠야 잘된것.
 ```
+
+# 파이토치로 훈련해보기
+1. 파이토치 설치
+```
+# CUDA 9.0
+conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=9.0 -c pytorch
+
+# CUDA 10.0
+conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
+
+# CPU Only
+conda install pytorch-cpu==1.1.0 torchvision-cpu==0.3.0 cpuonly -c pytorch
+```
+
