@@ -46,13 +46,13 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 > Permission error 가 뜨면 Prompt를 관리자 권한으로 실행시켜서 설치하면 해결 된다.
 ```
 # CUDA 9.0
-conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=9.0 -c pytorch
+>conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=9.0 -c pytorch
 
 # CUDA 10.0
-conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
+>conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
 
 # CPU Only
-conda install pytorch-cpu==1.1.0 torchvision-cpu==0.3.0 cpuonly -c pytorch
+>conda install pytorch-cpu==1.1.0 torchvision-cpu==0.3.0 cpuonly -c pytorch
 ```
 2. 설치확인
 ```
