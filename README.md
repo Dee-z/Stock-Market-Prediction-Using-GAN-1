@@ -40,6 +40,8 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 
 결과: ('32bit','WindowsPE') 라고 떠야 잘된것.
 ```
+4. 수집한 데이터베이스 조작
+- DB Browser for SQLite 프로그램을 통해 ...
 
 # 파이토치로 훈련해보기
 1. 파이토치 설치
