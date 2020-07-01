@@ -57,5 +57,5 @@ conda install pytorch-cpu==1.1.0 torchvision-cpu==0.3.0 cpuonly -c pytorch
 2. 설치확인
 ```
 >python
->>> import pytorch
+>>> import torch
 ```
