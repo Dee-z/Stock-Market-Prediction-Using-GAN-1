@@ -17,6 +17,7 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 ![GAN-FD](https://github.com/ojkk371/Stock-Market-Prediction-Using-GAN/blob/master/fig/GAN-FD-structure.png?raw=true)
 
 # 1. Kiwoom API 로 주식 분봉데이터 수집
+- 특징 : 조회제한 오류 발생..
 1. 키움증권 가입 & 키움증권 Open API 사용허가 & Open API 모듈 설치
 2. Anaconda 32-bit 설치
 ```
@@ -44,10 +45,12 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 - DB Browser for SQLite 프로그램으로 파일>내보내기>csv파일로 
 
 # 2. Creon API (대신증권) 로 주식 분봉데이터 수집 (추천★)  
+- 특징 : 1분봉 2만건의 데이터까지 추출가능
 1. CreonPlus(API) 설치 및 비대면계좌(모바일앱으로 하면 편함) 개설  
 2. CreonPlus 및 소스실행시키는 프로그램 모두 **관리자 권한** 으로 설정  
-  **관리자 권한 실행**으로 하지 않으면 연결오류 출력됨
-source : https://github.com/gyusu/Creon-Datareader
+  **관리자 권한 실행**으로 하지 않으면 연결오류 출력됨  
+    
+  source : https://github.com/gyusu/Creon-Datareader
 
 
 # 파이토치로 훈련해보기
