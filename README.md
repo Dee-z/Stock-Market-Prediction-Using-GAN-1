@@ -47,3 +47,5 @@ https://github.com/Gorosia/Stock_Prediction_Basic
 https://dreamgonfly.github.io/2018/03/17/gan-explained.html
 
 https://www.hindawi.com/journals/mpe/2018/4907423/
+
+[PyTorch 사용법](https://greeksharifa.github.io/pytorch/2018/11/02/pytorch-usage-01-introduction/)
