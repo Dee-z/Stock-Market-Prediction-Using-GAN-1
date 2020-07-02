@@ -40,8 +40,8 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 
 결과: ('32bit','WindowsPE') 라고 떠야 잘된것.
 ```
-4. 수집한 데이터베이스 조작
-- DB Browser for SQLite 프로그램을 통해 ...
+4. 수집한 db → csv 파일로 내보내기
+- DB Browser for SQLite 프로그램으로 파일>내보내기>csv파일로 
 
 # 2. Creon API (대신증권) 로 주식 분봉데이터 수집 (추천★)  
 1. CreonPlus(API) 설치 및 비대면계좌(모바일앱으로 하면 편함) 개설  
