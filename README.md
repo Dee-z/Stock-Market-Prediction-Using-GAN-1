@@ -49,6 +49,7 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 1. CreonPlus(API) 설치 및 비대면계좌(모바일앱으로 하면 편함) 개설  
 2. CreonPlus 및 소스실행시키는 프로그램 모두 **관리자 권한** 으로 설정  
   **관리자 권한 실행**으로 하지 않으면 연결오류 출력됨  
+3. 먼저 CreonPlus에 로그인 되어 있어야 정상작동함(**관리자 권한 실행 필수**)
     
   source : https://github.com/gyusu/Creon-Datareader
 
