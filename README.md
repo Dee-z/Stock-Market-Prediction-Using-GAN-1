@@ -45,3 +45,5 @@ https://data-newbie.tistory.com/466
 https://github.com/Gorosia/Stock_Prediction_Basic
 
 https://dreamgonfly.github.io/2018/03/17/gan-explained.html
+
+https://www.hindawi.com/journals/mpe/2018/4907423/
