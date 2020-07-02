@@ -43,3 +43,5 @@ https://dataplay.tistory.com/4?category=845492
 https://data-newbie.tistory.com/466
 
 https://github.com/Gorosia/Stock_Prediction_Basic
+
+https://dreamgonfly.github.io/2018/03/17/gan-explained.html
