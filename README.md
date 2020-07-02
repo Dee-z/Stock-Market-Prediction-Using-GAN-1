@@ -41,3 +41,5 @@ PlaidML은 AMD-GPU로 딥러닝을 가능하게 하는 advanced and portable한 
 https://dataplay.tistory.com/4?category=845492
 
 https://data-newbie.tistory.com/466
+
+https://github.com/Gorosia/Stock_Prediction_Basic
